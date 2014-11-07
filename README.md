@@ -3,7 +3,7 @@
 ## Preface
 
 This is an updated version of the "input2xml.py dict.cc to Apple Dictionary Plugin Script"
-by Philipp Brauner/Lipflip 2008 (lipflip@lipflip.org), licensed under the GLP
+by Philipp Brauner/Lipflip 2008 (lipflip@lipflip.org), licensed under the GPL.
 
 ## Requirements
 1. Download and Install "Xcode" from the AppStore or https://developer.apple.com/downloads
