@@ -1,0 +1,3 @@
+[submodule "Dictionary-Development-Kit"]
+	path = Dictionary-Development-Kit
+	url = https://github.com/SebastianSzturo/Dictionary-Development-Kit.git
